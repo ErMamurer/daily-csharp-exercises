@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rastgele_Dizi_Analiz", "Rastgele_Dizi_Analiz\Rastgele_Dizi_Analiz.csproj", "{A3865717-1958-464B-8845-C843A9EF2124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3865717-1958-464B-8845-C843A9EF2124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3865717-1958-464B-8845-C843A9EF2124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3865717-1958-464B-8845-C843A9EF2124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3865717-1958-464B-8845-C843A9EF2124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {949F7A06-DF4D-4411-A499-E98381265D85}
+	EndGlobalSection
+EndGlobal
