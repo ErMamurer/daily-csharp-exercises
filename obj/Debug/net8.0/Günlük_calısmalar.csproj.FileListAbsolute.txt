@@ -1,0 +1,14 @@
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\bin\Debug\net8.0\Günlük_calısmalar.exe
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\bin\Debug\net8.0\Günlük_calısmalar.deps.json
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\bin\Debug\net8.0\Günlük_calısmalar.runtimeconfig.json
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\bin\Debug\net8.0\Günlük_calısmalar.dll
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\bin\Debug\net8.0\Günlük_calısmalar.pdb
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\Günlük_calısmalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\Günlük_calısmalar.AssemblyInfoInputs.cache
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\Günlük_calısmalar.AssemblyInfo.cs
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\Günlük_calısmalar.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\Günlük_calısmalar.dll
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\refint\Günlük_calısmalar.dll
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\Günlük_calısmalar.pdb
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\Günlük_calısmalar.genruntimeconfig.cache
+C:\Users\CASPER\source\repos\Günlük_calısmalar\Günlük_calısmalar\obj\Debug\net8.0\ref\Günlük_calısmalar.dll
